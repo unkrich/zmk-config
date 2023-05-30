@@ -31,6 +31,7 @@ COMBO(grave,  &kp GRAVE,    26 27, DEF QWE, 40, 100)
 COMBO(tilde,  &kp TILDE,    25 26, DEF QWE, 40, 100)
 COMBO(bslh,   &kp BSLH,     31 32, DEF QWE, 40, 100)
 COMBO(pipe,   &kp PIPE,     32 33, DEF QWE, 40, 100)
+COMBO(esc,    &kp ESC,       2  3, DEF QWE, 40, 100)
 
 COMBO(capswd, &caps_word,   16 19, DEF QWE, 60, 200)
 
